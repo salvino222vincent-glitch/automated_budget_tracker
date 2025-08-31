@@ -2,4 +2,3 @@ pandas
 numpy
 xlsxwriter
 python-dateutil
-s
